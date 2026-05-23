@@ -8,7 +8,7 @@ import ieltsImage from '../assets/certificates/ielts-academic.webp';
 
 export const featuredCertificates = [
   { provider: 'SCE', image: sceImage, href: sceImage, title: { en: 'Saudi Council of Engineers Accreditation', ar: 'اعتماد الهيئة السعودية للمهندسين' } },
-  { provider: 'IELTS', image: ieltsImage, href: ieltsImage, title: { en: 'IELTS Academic — CEFR B2', ar: 'اختبار IELTS الأكاديمي' } },
+  { provider: 'SDA', image: iosSdaImage, href: iosSdaImage, title: { en: 'iOS Development', ar: 'تطوير تطبيقات iOS' } },
   { provider: 'IBM', image: ibmAiImage, href: ibmAiImage, title: { en: 'Introduction to Artificial Intelligence', ar: 'مقدمة في الذكاء الاصطناعي' } },
   { provider: 'LearnQuest', image: swiftLearnQuestImage, href: swiftLearnQuestImage, title: { en: 'iOS App Development with Swift 5', ar: 'مطورة تطبيقات iOS باستخدام Swift 5' } },
 ];
